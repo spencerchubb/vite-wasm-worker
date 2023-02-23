@@ -1,7 +1,7 @@
 {
   "name": "vite-wasm-worker",
   "version": "1.0.0",
-  "description": "```\r cd rs-example\r cargo build\r wasm-pack build --target bundler",
+  "description": "Example of using vite to bundle wasm in a web worker",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
