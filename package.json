@@ -4,8 +4,8 @@
   "description": "Example of using vite to bundle wasm in a web worker",
   "main": "index.js",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
+    "build:watch": "vite build --watch",
     "preview": "vite preview"
   },
   "author": "",
