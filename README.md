@@ -1,7 +1,7 @@
 This repository is a minimal "hello world" example of using Vite to bundle Rust and WebAssembly in a Web Worker.
 
-Compile rust to wasm
 ```
+# Compile rust to wasm
 cd rs-example
 cargo build
 wasm-pack build --target web
